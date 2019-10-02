@@ -1,0 +1,14 @@
+{
+    "id": "5d91e501e37792891ebae863",
+    "name": "get",
+    "actions": [
+        "get"
+    ],
+    "when": {
+        "%%args.url.host": {
+            "%in": [
+                "google.com"
+            ]
+        }
+    }
+}

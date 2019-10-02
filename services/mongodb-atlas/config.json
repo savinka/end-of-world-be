@@ -1,0 +1,11 @@
+{
+    "id": "5d91dc635e07d6d7e947607e",
+    "name": "mongodb-atlas",
+    "type": "mongodb-atlas",
+    "config": {
+        "clusterName": "Patients",
+        "readPreference": "primary",
+        "wireProtocolEnabled": false
+    },
+    "version": 1
+}

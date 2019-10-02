@@ -1,0 +1,8 @@
+{
+    "app_id": "palo-fylgm",
+    "config_version": 20180301,
+    "name": "Palo",
+    "location": "US-VA",
+    "deployment_model": "LOCAL",
+    "security": {}
+}
